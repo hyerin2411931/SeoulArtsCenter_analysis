@@ -1,7 +1,9 @@
 # SeoulArtsCenter_analysis
 
 - AI 링크
-https://aistudio.google.com/prompts/11EImrwpoGxG_C4W-60Hibd3mTji1-8l6
+https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2211EImrwpoGxG_C4W-60Hibd3mTji1-8l6%22%5D,%22action%22:%22open%22,%22userId%22:%22106866817848164926294%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+26.05.18 prompt link access 오류로 인해 수정했습니다.
+
 
 - 데이터 소개
 1. 예술의전당 _ 공연 및 전시 안내(https://www.data.go.kr/data/3076480/fileData.do)
